@@ -1,0 +1,29 @@
+{
+	"name": "amazon-kms-envelope-encryption-nodejs",
+	"version": "1.0.0",
+	"description": "A demonstration on implementation envelope encryption using amazon kms and Node.JS' crypto module",
+	"main": "index.js",
+	"dependencies": {
+		"aws-sdk": "^2.868.0",
+		"dotenv": "^8.2.0"
+	},
+	"devDependencies": {},
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kenyipp/amazon-kms-envelope-encryption-nodejs.git"
+	},
+	"keywords": [
+		"aws",
+		"kms",
+		"crypto",
+		"envelope-encryption",
+		"nodejs"
+	],
+	"author": "ken.yip",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/kenyipp/amazon-kms-envelope-encryption-nodejs/issues"
+	},
+	"homepage": "https://github.com/kenyipp/amazon-kms-envelope-encryption-nodejs#readme"
+}
